@@ -20,13 +20,8 @@
     <code>🎓 Tongji University · Master & Bachelor</code>
     <code>🪄 LLMs / AI Application</code>
   </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/AI_Product_Engineering-2563EB?style=flat-square&logo=openai&logoColor=white" alt="AI Product Engineering"/>
-    <img src="https://img.shields.io/badge/LLM_Applications-7C3AED?style=flat-square&logo=googlegemini&logoColor=white" alt="LLM Applications"/>
-    <img src="https://img.shields.io/badge/Open_Source-181717?style=flat-square&logo=github&logoColor=white" alt="Open Source"/>
-  </p>
-
+    <img width="624" height="231" alt="qkunio" src="https://github.com/user-attachments/assets/f39e4499-00cb-4e16-bfc8-cd70b3dd8ff1" />
+    <p> </p>
   <p>
     <a href="mailto:qkunio@163.com">
       <img src="https://img.shields.io/badge/Email-qkunio%40163.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
